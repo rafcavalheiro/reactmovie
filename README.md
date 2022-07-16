@@ -1,7 +1,7 @@
 # reactmovie
 Aplicação que lista filmes de acordo com o gênero.
 
-## Demo: <a> https://ignite-feed-xi-ten.vercel.app/ <a/>
+## Demo: <a> https://reactmovie-steel.vercel.app/ <a/>
 
 <br/>
 
